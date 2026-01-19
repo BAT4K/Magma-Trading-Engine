@@ -53,7 +53,7 @@ Magma is built around a **Single-Writer / Single-Reader** architecture to elimin
 
 ---
 
-## 💻 How to Run
+## How to Run
 
 ### 1. Start the Server
 
