@@ -9,7 +9,7 @@ This project demonstrates **low-latency systems engineering**, **high-performanc
 
 ## Performance Benchmarks
 
-**Environment:** AMD Ryzen 7 7530U (Single Thread, CPU Affinity Pinned)
+**Environment:** AMD Ryzen 5 7530U (Single Thread, CPU Affinity Pinned)
 
 - **Throughput:** ~1.2 million orders / second
 - **Median Latency (p50):** **130 nanoseconds**
